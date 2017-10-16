@@ -10,7 +10,7 @@ public class test2 {
     //定义全局变量
     public static String[] arrB;
     public static int[][] Graph;
-    public static int INF = 500;
+    public static int INF = 999;
     public static int[][] dist;
 
     //随机游走
